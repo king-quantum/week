@@ -12,7 +12,7 @@ Unknown File
 Class comments
 Add class comment…
 
-[
+employees_data = [
     {
         "first_name": "Anthony",
         "last_name": "Horton",
