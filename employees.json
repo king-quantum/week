@@ -13,9 +13,7 @@ employees_data = [
         "salary": 15000,
         "department": "Marketing"
     },
-
-
-    {
+     {
         "first_name": "Laura",
         "last_name": "Peters",
         "employee_id": 19810,
