@@ -1,18 +1,4 @@
-Skip to main content
-Google ClassroomClassroom
-245010 - Level 5 Bootcamp in Data Engineering
-2
-Datasets
-Datasets
-Matthew Ettridge
-•
-7:14 PM
-employees.json
-Unknown File
-Class comments
-Add class comment…
-
-[
+employees_data = [
     {
         "first_name": "Anthony",
         "last_name": "Horton",
@@ -26,7 +12,9 @@ Add class comment…
         "employee_id": 13561,
         "salary": 15000,
         "department": "Marketing"
-    },
+    }
+]
+
     {
         "first_name": "Laura",
         "last_name": "Peters",
