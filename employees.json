@@ -13,7 +13,7 @@ employees_data = [
         "salary": 15000,
         "department": "Marketing"
     }
-]
+
 
     {
         "first_name": "Laura",
